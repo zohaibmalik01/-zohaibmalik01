@@ -1,4 +1,3 @@
-# -zohaibmalik01
 <h1 align="left">Hi 👋, I'm Zohaib Malik</h1>
 <h3 align="left">A passionate Shopify Theme developer with 9+ Years of Experience</h3>
 
