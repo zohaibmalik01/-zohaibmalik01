@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to Contributing to **Javascript Base Open source Projects**
 
-- 💬 Ask me about **React Js, GraphQL, Tailwind, Node Js, Express Js, MongoDB, PostgreSQL, Restful APIs**
+- 💬 Ask me about **HTML, CSS, JavaScript Shopify, React Js, GraphQL, Tailwind, Node Js, Express Js, MongoDB, PostgreSQL, Restful APIs**
 
 - 📫 How to reach me **zohaibmalikhere@outlook.com**
 
