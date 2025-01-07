@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zohaib Malik</h1>
-<h3 align="center">A passionate Shopify Developer with 7+ Years of Experience</h3>
+<h1>Hi 👋, I'm Zohaib Malik</h1>
+<h3>A passionate Shopify Developer with 7+ Years of Experience</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibmalik01&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibmalik01" /> </p>
 <br>
