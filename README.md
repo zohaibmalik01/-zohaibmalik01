@@ -3,6 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibmalik01&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibmalik01" /> </p>
 <br>
+<h3 align="left">Bio:</h3>
 - 🔭 I’m currently working as **Senior Solution Engineer**
 
 - 🌱 Learning all About Emerging Technologies, majorly **Javascript**
